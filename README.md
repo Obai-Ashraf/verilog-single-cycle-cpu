@@ -40,7 +40,6 @@ The design follows a simplified CPU architecture and includes key components suc
 ## 📁 Project Structure
 - `/src` → Verilog source code
 - `/testbench` → Simulation test files 
-- `/docs` → Diagrams or reports
 
 ---
 
